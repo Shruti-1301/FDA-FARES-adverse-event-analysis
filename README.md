@@ -17,6 +17,8 @@ FDA Adverse Event Reporting System (FAERS)
 Source: fda.gov
 Period: January - March 2023
 Records: 1,052,002 after merging and cleaning
+link : -[FDA FAERS Quarterly Data Files](https://www.fda.gov/drugs/questions-and-answers-fdas-adverse-event-reporting-system-faers/fda-adverse-event-reporting-system-faers-latest-quarterly-data-files)
+https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html
 
 ## Project Structure
 ```
