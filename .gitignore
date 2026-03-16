@@ -1,0 +1,7 @@
+data/raw/
+SQL/faers.db
+data/cleaned/faers_cleaned_2023q1.csv
+Powerbi/*.pbix
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
