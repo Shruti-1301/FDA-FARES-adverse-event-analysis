@@ -1,0 +1,21 @@
+reaction,report_count,fatal_count,fatality_rate_pct
+Off Label Use,20649,1522,7.37
+Death,14560,8978,61.66
+Drug Ineffective,13189,1226,9.3
+Fatigue,11707,406,3.47
+Diarrhoea,10937,516,4.72
+Nausea,9765,423,4.33
+Dyspnoea,9117,505,5.54
+Pain,8999,244,2.71
+Pneumonia,8411,774,9.2
+Covid-19,8370,464,5.54
+Pyrexia,7954,465,5.85
+Headache,7893,199,2.52
+Arthralgia,7680,113,1.47
+Vomiting,7312,392,5.36
+Condition Aggravated,7279,378,5.19
+Malaise,7151,315,4.4
+Asthenia,6465,366,5.66
+Toxicity To Various Agents,6324,2074,32.8
+Fall,6269,297,4.74
+Dizziness,5932,159,2.68

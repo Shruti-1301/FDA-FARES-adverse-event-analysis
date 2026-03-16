@@ -1,0 +1,15 @@
+# Raw data files (too large)
+data/raw/
+
+# SQLite database (too large)
+SQL/faers.db
+
+# Power BI file (binary, not readable on GitHub)
+Powerbi/*.pbix
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc

@@ -1,0 +1,24 @@
+drugname,reaction,pair_count,fatal_count,fatality_rate_pct
+VEDOLIZUMAB,Off Label Use,2139,21,0.98
+FENTANYL,Drug Abuse,2132,1026,48.12
+INFLIXIMAB,Off Label Use,1915,22,1.15
+ELIQUIS,Death,1453,721,49.62
+HAEGARDA,Hereditary Angioedema,1426,0,0.0
+INFLIXIMAB,Condition Aggravated,1331,10,0.75
+INFLIXIMAB,Intentional Product Use Issue,1192,12,1.01
+REMICADE,Off Label Use,1144,6,0.52
+VEDOLIZUMAB,Crohn'S Disease,1074,3,0.28
+VEDOLIZUMAB,Colitis Ulcerative,1026,1,0.1
+INFLIXIMAB,Inappropriate Schedule Of Product Administration,1025,5,0.49
+ACETAMINOPHEN,Toxicity To Various Agents,905,455,50.28
+VEDOLIZUMAB,Diarrhoea,816,1,0.12
+VEDOLIZUMAB,Abdominal Pain,767,1,0.13
+CLOZAPINE,Neutropenia,675,0,0.0
+METHOTREXATE,Drug Ineffective,609,26,4.27
+INFLIXIMAB,Weight Increased,607,5,0.82
+INFLIXIMAB,Arthralgia,600,3,0.5
+OXBRYTA,Sickle Cell Anaemia With Crisis,564,1,0.18
+REVLIMID,Off Label Use,552,50,9.06
+NUPLAZID,Death,538,247,45.91
+INFLIXIMAB,Weight Decreased,529,2,0.38
+REVLIMID,Death,509,255,50.1
