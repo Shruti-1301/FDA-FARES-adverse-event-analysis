@@ -13,12 +13,11 @@ fatality trends, and actionable pharmacovigilance insights.
 - Power BI
 
 ## Dataset
-FDA Adverse Event Reporting System (FAERS)
-Source: fda.gov
-Period: January - March 2023
-Records: 1,052,002 after merging and cleaning
-link : -[FDA FAERS Quarterly Data Files](https://www.fda.gov/drugs/questions-and-answers-fdas-adverse-event-reporting-system-faers/fda-adverse-event-reporting-system-faers-latest-quarterly-data-files)
-https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html
+- **Source:** [FDA FAERS Quarterly Data Files](https://www.fda.gov/drugs/questions-and-answers-fdas-adverse-event-reporting-system-faers/fda-adverse-event-reporting-system-faers-latest-quarterly-data-files)
+- **Period:** January - March 2023
+- **Files used:** DEMO23Q1, DRUG23Q1, REAC23Q1, OUTC23Q1
+- **Records:** 1,052,002 after merging and cleaning
+- **Note:** Raw data files are not included due to size constraints. Download FAERS 2023 Q1 ASCII files directly from the FDA link above.
 
 ## Project Structure
 ```
